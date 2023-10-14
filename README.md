@@ -10,7 +10,7 @@ I'm a college junior majoring in computer science. I'm passionate about coding a
 
 ## Projects
 
-- [Java Password Generator]((https://github.com/hamzapatwa/Java-Password-Generator/tree/main)): A simple and user-friendly Java application for generating secure passwords with customizable parameters.
+- [Java Password Generator][https://github.com/hamzapatwa/Java-Password-Generator/tree/main]: A simple and user-friendly Java application for generating secure passwords with customizable parameters.
 
 
   [![screenshot.png](https://i.postimg.cc/3rb0Q55f/screenshot.png)](https://postimg.cc/Thg3nsPn)
