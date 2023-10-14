@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**hamzapatwa/hamzapatwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college junior majoring in computer science. I'm passionate about coding and love to build things from scratch.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proficient in Python, Java, C++, and 
+- Experience with JavaScript, React, Node.js, and Flask
+- Familiarity with SQL and NoSQL databases
+
+## Projects
+
+- [Java Password Generator](https://code.org/beyond/extracurricular): A simple and user-friendly Java application for generating secure passwords with customizable parameters.
+  [![screenshot.png](https://i.postimg.cc/3rb0Q55f/screenshot.png)](https://postimg.cc/Thg3nsPn)
+## Hackathons and Competitions
+
+- Participant at the MLH  Open-Source Hackathon hackathon
+
+
+## Looking for Opportunities
+
+I'm currently looking for internship opportunities in software development. I'm also interested in contributing to open source projects.
+
+Feel free to reach out to me at email address.
